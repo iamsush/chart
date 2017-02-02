@@ -1,0 +1,13 @@
+html, body {
+    height:100%;
+}
+
+.fulldiv
+{
+	 height: 100vh;
+}
+
+.col
+{
+	padding-top: 5%;
+}
